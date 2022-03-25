@@ -1,7 +1,7 @@
  Profile currently in the making <img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif" width="25" height="10" />\
 Please come back later or take a look at the current repositories (May be empty or not finished)
 
-You can browse either by language (Java, C, Python etc.) or by category (Mobile Dev., Web Dev., C.Graphics etc.).
+You can browse either by [Language]() (Java, C, Python etc.) or by [Category]() (Mobile Dev., Web Dev., C.Graphics etc.).
 
 
 
