@@ -1,13 +1,14 @@
-**Profile currently in the making <img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif" width="25" height="10" />\
+**Profile currently in the making    <img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif" width="35" height="-20" />\
 Please come back later or take a look at the current repositories (May be empty or not finished)**
 
-
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3e2a0443163649.57f1d6ec22833.gif" width ="100%" height="400"/> -->
 
 <!-- 
 ## :computer: Tech Stack : 
 <img src = "userContent/c-original.svg" width='30'> <img src = "userContent/Eclipse-Luna-Logo.svg" width='90'> <img src = "userContent/dart.svg" width='30'> <img src = "userContent/Visual_Studio_Code.svg" width='30'> <img src = "userContent/Raylib_logo.png" width='40'> <img src = "userContent/JavaFX_logo.png" width='60'> <img src = "userContent/flutter-logo.svg" width='30'> <img src = "userContent/microsoft-sql-server-logo-svgrepo-com.svg" width='60'> <img src = "userContent/pycharm.svg" width='40'> <img src = "userContent/java.svg" width='40'> <img src = "userContent/python.svg" width='40'> <img src = "userContent/sql.svg" width='40'> 
 -->
 
+<hr>
 <h1 align="center">Hi 👋, I'm Esameldin Mahdi</h1>
 <h3 align="center">A passionate developer from Sudan</h3>
 
