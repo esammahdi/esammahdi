@@ -12,7 +12,7 @@ Please come back later or take a look at the current repositories (May be empty 
 <h1 align="center">Hi 👋, I'm Esameldin Mahdi</h1>
 <h3 align="center">A passionate developer from Sudan</h3>
 
-I am Esameldin Mahdi, currently pursuing a bachelor's degree  in computer engineering from [Marmara University](https://www.marmara.edu.tr/). I am a tech enthusiast & . Feel free to connect with me here:
+I am Esameldin Mahdi, currently pursuing a bachelor's degree  in computer engineering from _[Marmara University](https://www.marmara.edu.tr/)_. I am a tech enthusiast.
 
 
 You can browse either by [Language]() (Java, C, Python etc.) or by [Category]() (Mobile Dev., Web Dev., C.Graphics etc.).
