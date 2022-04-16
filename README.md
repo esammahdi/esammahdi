@@ -1,13 +1,6 @@
 **Profile currently in the making    <img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif" width="35" height="-20" />\
 Please come back later or take a look at the current repositories (May be empty or not finished)**
 
-<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3e2a0443163649.57f1d6ec22833.gif" width ="100%" height="400"/> -->
-
-<!-- 
-## :computer: Tech Stack : 
-<img src = "userContent/c-original.svg" width='30'> <img src = "userContent/Eclipse-Luna-Logo.svg" width='90'> <img src = "userContent/dart.svg" width='30'> <img src = "userContent/Visual_Studio_Code.svg" width='30'> <img src = "userContent/Raylib_logo.png" width='40'> <img src = "userContent/JavaFX_logo.png" width='60'> <img src = "userContent/flutter-logo.svg" width='30'> <img src = "userContent/microsoft-sql-server-logo-svgrepo-com.svg" width='60'> <img src = "userContent/pycharm.svg" width='40'> <img src = "userContent/java.svg" width='40'> <img src = "userContent/python.svg" width='40'> <img src = "userContent/sql.svg" width='40'> 
--->
-
 <hr>
 
 <h1 align="center">Hi 👋, I'm Esameldin Mahdi</h1>
@@ -60,9 +53,11 @@ You can browse either by [Language]() (Java, C, Python etc.) or by [Category]() 
   <br>*By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
  </sub>
  
-<!---
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=esammahdi&layout=compact">
-esammahdi/esammahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <br>
+ 
+ <p></p>
+ <p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=esammahdi&layout=compact&count_private=true&langs_count=8&hide=css">
+ </p>
+
+ 
