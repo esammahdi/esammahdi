@@ -1,7 +1,3 @@
-**Profile currently in the making    <img src="https://c.tenor.com/NqKNFHSmbssAAAAi/discord-loading-dots-discord-loading.gif" width="35" height="-20" />\
-Please come back later or take a look at the current repositories (May be empty or not finished)**
-
-<hr>
 
 <h1 align="center">Hi 👋, I'm Esameldin Mahdi</h1>
 <h3 align="center">A passionate developer from Sudan</h3>
@@ -9,9 +5,9 @@ Please come back later or take a look at the current repositories (May be empty 
 I am Esameldin Mahdi, currently pursuing a bachelor's degree  in computer engineering from _[Marmara University](https://www.marmara.edu.tr/)_. I am a tech enthusiast.
 
 
-You can browse either by [Language]() (Java, C, Python etc.) or by [Category]() (Mobile Dev., Web Dev., C.Graphics etc.).
+You can browse either by _[Language](Languagues)_ (Java, C, Python etc.) or by _[Category](Categories)_ (Mobile Dev., Web Dev., C.Graphics etc.).
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** 
 
 ### Connect with me:
 
@@ -47,11 +43,11 @@ You can browse either by [Language]() (Java, C, Python etc.) or by [Category]() 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <img src = "userContent/Visual_Studio_Code.svg" width="40" height="40">
  <img src = "userContent/Eclipse-Luna-Logo.svg" width="80" height="40">
- <a href="https://en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png#/media/File:Proteus_Design_Suite_Atom_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus Design Suite Atom Logo.png"></a>*
+ <a href="https://en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png#/media/File:Proteus_Design_Suite_Atom_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus Design Suite Atom Logo.png"></a>[^1]
+
+ [^1] : By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
  
- <sub>
-  <br>*By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
- </sub>
+
  
  <br>
  
