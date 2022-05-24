@@ -43,9 +43,9 @@ You can browse either by _[Language](Languagues)_ (Java, C, Python etc.) or by _
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <img src = "userContent/Visual_Studio_Code.svg" width="40" height="40">
  <img src = "userContent/Eclipse-Luna-Logo.svg" width="80" height="40">
- <a href="https://en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png#/media/File:Proteus_Design_Suite_Atom_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus Design Suite Atom Logo.png"></a>[^1]
+ <a href="https://en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png#/media/File:Proteus_Design_Suite_Atom_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus Design Suite Atom Logo.png"></a>   [^1]
 
- [^1] : By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
+ [^1]: By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
  
 
  
