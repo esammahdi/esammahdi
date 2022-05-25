@@ -5,9 +5,10 @@
 I am Esameldin Mahdi, currently pursuing a bachelor's degree  in computer engineering from _[Marmara University](https://www.marmara.edu.tr/)_. I am a tech enthusiast.
 
 
-You can browse either by _[Language](Languagues)_ (Java, C, Python etc.) or by _[Category](Categories)_ (Mobile Dev., Web Dev., C.Graphics etc.).
+You can browse either by _[Language]()_ (Java, C, Python etc.) or by _[Category]()_ (Mobile Dev., Web Dev., C.Graphics etc.).
 
-- 🌱 I’m currently learning **Flutter** 
+- _~~🌱 I’m currently learning **Flutter**~~_ 
+- 🌱 I’m currently learning ***.NET Core Development***
 
 ### Connect with me:
 
@@ -22,7 +23,7 @@ You can browse either by _[Language](Languagues)_ (Java, C, Python etc.) or by _
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<!--  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="c" width="40" height="40"/> </a> -->
+ <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C sharp" width="40" height="40"/> </a>
 
 
 ### Frameworks and Programs:
@@ -34,6 +35,8 @@ You can browse either by _[Language](Languagues)_ (Java, C, Python etc.) or by _
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/800px-Processing_2021_logo.svg.png" alt="processing" width="40" height="40"/> </a>
 <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="userContent/Raylib_logo.png" alt="raylib" width="40" height="40"/> </a> 
+ <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="raylib" width="40" height="40"/> </a> 
+ 
 
 
 
