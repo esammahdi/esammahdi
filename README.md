@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Esameldin Mahdi</h1>
 <h3 align="center">A passionate developer from Sudan</h3>
 
-I am Esameldin Mahdi, currently pursuing a bachelor's degree  in computer engineering from _[Marmara University](https://www.marmara.edu.tr/)_. I am a tech enthusiast.
+A tech enthusiast currently pursuing a bachelor's degree  in _Computer Engineering_ from _[Marmara University](https://www.marmara.edu.tr/)_.
 
 
 You can browse either by _[Language]()_ (Java, C, Python etc.) or by _[Category]()_ (Mobile Dev., Web Dev., C.Graphics etc.).
