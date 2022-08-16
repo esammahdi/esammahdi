@@ -5,10 +5,8 @@
 A tech enthusiast currently pursuing a bachelor's degree  in _Computer Engineering_ from _[Marmara University](https://www.marmara.edu.tr/)_.
 
 
-You can browse either by _[Language]()_ (Java, C, Python etc.) or by _[Category]()_ (Mobile Dev., Web Dev., C.Graphics etc.).
-
 - _~~🌱 I’m currently learning **Flutter**~~_ 
-- 🌱 I’m currently learning ***.NET Core Development***
+- 🌱 I’m currently learning ***ASP.NET Core Development***
 
 ### Connect with me:
 
@@ -24,6 +22,7 @@ You can browse either by _[Language]()_ (Java, C, Python etc.) or by _[Category]
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C sharp" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/> </a> 
 
 
 ### Frameworks and Programs:
@@ -36,19 +35,19 @@ You can browse either by _[Language]()_ (Java, C, Python etc.) or by _[Category]
 <a href="https://processing.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/800px-Processing_2021_logo.svg.png" alt="processing" width="40" height="40"/> </a>
 <a href="https://www.raylib.com/" target="_blank" rel="noreferrer"> <img src="userContent/Raylib_logo.png" alt="raylib" width="40" height="40"/> </a> 
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="raylib" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
  
 
 
 
 ### Tools, Other:
  
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <img src = "userContent/Visual_Studio_Code.svg" width="40" height="40">
- <img src = "userContent/Eclipse-Luna-Logo.svg" width="80" height="40">
- <a href="https://en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png#/media/File:Proteus_Design_Suite_Atom_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" width="40" height="40" alt="Proteus Design Suite Atom Logo.png"></a>   [^1]
-
- [^1]: By Labcenter Electronics Ltd, <a href="//en.wikipedia.org/wiki/File:Proteus_Design_Suite_Atom_Logo.png" title="Fair use of copyrighted material in the context of Proteus Design Suite">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=60954961">Link</a>
+ <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
+ <img src = "userContent/Visual_Studio_Code.svg" width="40" height="40"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
+ <img src = "userContent/Eclipse-Luna-Logo.svg" width="80" height="50">
+ 
  
 
  
