@@ -4,10 +4,6 @@
 
 A tech enthusiast currently pursuing a bachelor's degree  in _Computer Engineering_ from _[Marmara University](https://www.marmara.edu.tr/)_.
 
-
-- _~~🌱 I’m currently learning **Flutter**~~_ 
-- 🌱 I’m currently learning ***ASP.NET Core Development***
-
 ### Connect with me:
 
 [![Gmail Badge](https://img.shields.io/badge/-esammahdi111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esammahdi111@gmail.com)](mailto:esammahdi111@gmail.com)
