@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-esamahdi.com-A56340?style=flat-square&logo=react&logoColor=white)](https://esamahdi.com)
 [![Gmail](https://img.shields.io/badge/Gmail-esammahdi111@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:esammahdi111@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-esammahdi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esammahdi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-esammahdi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esameldin-bashir/)
 [![Medium](https://img.shields.io/badge/Medium-@esammahdi111-1A8917?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@esammahdi111)
 [![LeetCode](https://img.shields.io/badge/LeetCode-emahdi-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/emahdi)
 
